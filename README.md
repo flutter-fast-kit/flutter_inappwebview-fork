@@ -1,5 +1,7 @@
 # Flutter InAppWebView Plugin [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Flutter%20InAppBrowser%20plugin!&url=https://github.com/pichillilorenzo/flutter_inappwebview_fork&hashtags=flutter,flutterio,dart,dartlang,webview) [![Share on Facebook](https://img.shields.io/badge/share-facebook-blue.svg?longCache=true&style=flat&colorB=%234267b2)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/pichillilorenzo/flutter_inappwebview_fork)
 
+**废弃：请直接使用 [https://pub.dartlang.org/packages/flutter_inappwebview](https://pub.dartlang.org/packages/flutter_inappwebview)**
+
 [![Pub](https://img.shields.io/pub/v/flutter_inappwebview_fork.svg)](https://pub.dartlang.org/packages/flutter_inappwebview_fork)
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://stackoverflow.com/questions/tagged/flutter+webview?sort=votes)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](/LICENSE)
